@@ -6,12 +6,10 @@ Studiuję Analitykę danych w biznesie na Politechnice Opolskiej, semestr 2.
 ## Umiejętności techniczne
 | Narzędzie | Poziom |
 |-----------|--------|
-| Python
-| początkujący |
-| Excel średni
-| SQL początkujący
-| ... |
-| ... |
+| Python| początkujący |
+| Excel | średni |
+| SQL | początkujący |
+| ...| ... |
 ## Czego chcę się nauczyć
 1. [rzeczy które przydadzą mi się w pracy]
 2. [szybkości wykonywania zadań]
